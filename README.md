@@ -1,6 +1,6 @@
 # Getting-and-Cleaning-Data-Course-Project
 
-This repository contains all the files for the project of Getting and Cleaning Data Courses.This repository contains the required documentation files, include dataset files, R code and the tidy data documents and so on. These documentation files are answers of the project of the Data Science's course "Getting and Cleaning data".
+This repository contains all the files for the project of Getting and Cleaning Data Courses. This repository contains the required documentation files, include dataset files, R code and the tidy data documents and so on. These documentation files are answers of the project of the Data Science's course "Getting and Cleaning data".
 
 # Requirment of Getting and Cleaning Data Course Project
 
