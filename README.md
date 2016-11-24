@@ -23,12 +23,12 @@ You should create one R script called run_analysis.R that does the following.
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 
-## Files
+# Files
 
-`data`folder is downloaded from the website given. And `data`folder contains the raw data set that I need to work with, and clean.
+1. `data`folder is downloaded from the website given. And `data`folder contains the raw data set that I need to work with, and clean.
 
-`CodeBook.md` describes the how to use all this, variables, the data, and any transformations or work that was performed to clean up the data.
+2. `CodeBook.md` describes the how to use all this, variables, the data, and any transformations or work that was performed to clean up the data.
 
-`run_analysis.R` contains all the code to perform the analyses described in the 5 steps. They can be launched in RStudio by just importing the file.
+3. `run_analysis.R` contains all the code to perform the analyses described in the 5 steps. They can be launched in RStudio by just importing the file.
 
-The output of the 5th step is called `secTidySet.txt`, and uploaded in the course project's form.
+4. `secTidySet.txt` is the output of the 5th step of the course project and this file is the tidy data required by this poject.
